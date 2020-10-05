@@ -1,48 +1,37 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: The Psychology of Hand Writing
 date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
+header_feature_image: ../uploads/samir-bouaked-egeuzznpjve-unsplash.jpg
 caption: Cobbles
+comments: true
 ---
+Graphology: derived from the Greek words 'graphein' (to write) and 'logos' (account) and it is the study of handwriting, a tool that can help to determine someone's personality.
 
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
+**A bit of the history**
 
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+The interest of the inner meaning of writing is ascient, Greek and Roman philosophers believed writing could revel important aspects of the character and abilities of individuals.
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
+The means of knowing the habits and qualities of a writer from his letters in 1622 by Camilo Baldi was the major first work on the topic by that time. Later in 1872, modern graphology was initiated by French clergy and the work, *The mysteries of handwriting* and *A system of graphology* was published by Abbe Jean Michon, who also funded the first school of graphology in 1871.
+
+Between 1870 to 1930 graphology was used in Germany as a tool to experiment and diagnose psychiatric diseases.
+
+![Here is a book](../uploads/binh-dang-nam-bzk0qeeobjo-unsplash.jpg "Handwriting becomes a symptom")
 
 
-![Here is a book](../uploads/pages.jpg)
 
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
+> *A basic idea in all attempts to capture the soul had been that movements of the body express the status and movements of the soul.*
 
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
+In the early twentieth century handwriting was still considered to express the soul, the character or the personality of the writer, but the soul was now reinterpreted as having a physical cause, which could be traced back to the brain.
 
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
+The German psychiatrist Emil Kraepelin invented an apparatus, called Writing-Scale, which could help him to measure the dynamics of writing in various dimensions, especially the pressure of movements. The experiments produced a huge amount of data, but the psychiatrists were unable to interpret them in a comprehensible way.
 
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
 
-## Here is a an image
 
-![Wooden Type](../uploads/log.jpg)
+![Wooden Type](../uploads/samir-bouaked-egeuzznpjve-unsplash.jpg)
 
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
+Graphology became a diagnostic tool in psychology and psychiatry in the 1940s and 1950s. Like the Rorschach inkblot test, handwriting became a kind of projective test as they believed anyone who writes is involuntarily projecting his or her personality in the act she or he performs.
 
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
+In other studies graphology has been proven to be useful in assessing major depression, high blood pressure and schizophrenia. Some experts have even found graphotherapy, consisting in handwritten exercises, to be helpful to adults with insomnia, as it shows  a more positive state of mind when repeated over a period of three weeks. 
 
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
-
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
-
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
-
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+In the actuality, some companies use graphology during recruitment processes and the methods have also been used in court cases. Although new observations have been discovered, there is still a lot to be learnt in order to understand better how graphology works.
