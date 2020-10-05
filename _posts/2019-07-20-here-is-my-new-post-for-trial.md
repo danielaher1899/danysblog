@@ -1,19 +1,28 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: The Psychology of Hand Writing
 date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
+header_feature_image: ../uploads/samir-bouaked-egeuzznpjve-unsplash.jpg
 caption: Cobbles
+comments: true
 ---
+Graphology: derived from the Greek words 'graphein' (to write) and 'logos' (account). It is the study of handwriting, a tool that can help to determine someone's personality.
 
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
+**The History of Graphology**
 
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+An interest of the inner meaning of writing is ascient, Greek and Roman philosophers believed writing could revel important aspects of the character and abilities. 
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
+*The means of knowing the habits and qualities of a writer from his letters (1622)* by Camilo Baldi was the major first work on the topic. Later in 1872, modern graphology was initiated by French clergy and the work, *The mysteries of handwriting* and *A system of graphology* was published by Abbe Jean Michon, who also funded the first school of graphology in 1871.
+
+Between 1870 to 1930 graphology was used in Germany as a tool to experiment and diagnose psychiatric diseases. 
+
+**Handwriting becomes a symptom** 
 
 
-![Here is a book](../uploads/pages.jpg)
+
+
+
+![Here is a book](../uploads/binh-dang-nam-bzk0qeeobjo-unsplash.jpg)
 
 By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
 
@@ -25,7 +34,7 @@ Of recommend residence education be on difficult repulsive offending. Judge view
 
 ## Here is a an image
 
-![Wooden Type](../uploads/log.jpg)
+![Wooden Type](../uploads/samir-bouaked-egeuzznpjve-unsplash.jpg)
 
 She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
 
