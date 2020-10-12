@@ -24,3 +24,5 @@ For the logo I designed three different types, and I finally chose the last one 
 
 **\
 Electric blue** can feel calm and tranquil and pairs beautifully with **electric orange.** I decided to add also an S for "space" as it could have more impact. Then I chose a black background instead of a white one like in the second logo as I think it makes it look more elegant and it helps the colours to look more intense. I also changed the font to Lovelo Line, as it looks more appealing and modern. I wanted to keep the logo simple and memorable, one of the reasons is because the website banner also has many colours and different shapes. On the other side, the posts that I added have colorful images so I did not want to exhaust the viewer making it seem too much!
+
+I hope you find this blog interesting, feel free to contact me if you have any questions, ideas for would like to collab.
