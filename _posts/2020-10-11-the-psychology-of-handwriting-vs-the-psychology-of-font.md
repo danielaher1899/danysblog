@@ -9,11 +9,11 @@ Did you know that a typeface can significantly influence what the reader thinks 
 
 The National Pen Company in the US, reported that your hand writing can give clues about 5,000 personality traits. Some of the main clues are focused on: 
 
-*  Size:
+* Size:
 
-Small letters: you are **shy** or withdrawn, **studious, concentrated or meticulous**.
--Medium letters: You are **well-adjusted** and **adaptable**.
--Large letters: you are **outgoing**, people oriented, outspoken and love attention, This also may mean that you **pretend a lot of confidence**.
+  *  Small letters: you are **shy** or withdrawn, **studious, concentrated or meticulous**.
+  *   Medium letters: You are **well-adjusted** and **adaptable**.
+  * Large letters: you are **outgoing**, people oriented, outspoken and love attention, This also may mean that you **pretend a lot of confidence**.
 
 Spacing between words:
 
