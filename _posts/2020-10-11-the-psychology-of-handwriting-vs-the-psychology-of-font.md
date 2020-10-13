@@ -11,16 +11,15 @@ The National Pen Company in the US, reported that your hand writing can give clu
 
 * Size:
 
-  *  Small letters: you are **shy** or withdrawn, **studious, concentrated or meticulous**.
-  *   Medium letters: You are **well-adjusted** and **adaptable**.
+  * Small letters: you are **shy** or withdrawn, **studious, concentrated or meticulous**.
+  * Medium letters: You are **well-adjusted** and **adaptable**.
   * Large letters: you are **outgoing**, people oriented, outspoken and love attention, This also may mean that you **pretend a lot of confidence**.
-
-Spacing between words:
+* Spacing between words:
 
 ![](../uploads/united-nations-covid-19-response-tocmy_axt3w-unsplash.jpg)
 
-\-Wide spacing: you **enjoy your freedom** and don’t like to be overwhelmed or crowded.
--Narrow spacing: You **can’t stand to be alone.**
+Wide spacing: you **enjoy your freedom** and don’t like to be overwhelmed or crowded.
+Narrow spacing: You **can’t stand to be alone.**
 
 * Pressure:
 
