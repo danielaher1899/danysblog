@@ -22,19 +22,23 @@ Narrow spacing: You **can’t stand to be alone.**
 
 Pressure:
 
-* Heavy pressure: you are **good with commitment** and taking things seriously. If the pressure is too heavy, you tend to be uptight and can react quickly to criticism. 
-* Light pressure: you are **sensitive** and show an empathy to people, but you also have lack of vitality.
+\-Heavy pressure: you are **good with commitment** and taking things seriously. If the pressure is too heavy, you tend to be uptight and can react quickly to criticism. 
+
+\-Light pressure: you are **sensitive** and show an empathy to people, but you also have lack of vitality.
 
 Speed:
 
-* If you write quickly: you are **impatient**, dislike delays or time wasters.
-* If you write slowly: you are more **organised**, methodical and self-reliant.
+\-If you write quickly: you are **impatient**, dislike delays or time wasters.
+
+\-If you write slowly: you are more **organised**, methodical and self-reliant.
 
 Shape of the letter:
 
-* Rounded letters: you are **creative** and artistic.
-* Pointed letters: you are more **aggressive**, intense, very intelligent and curious.
-* Connected letters: you are **logical**, systematic and make decisions carefully.
+\-Rounded letters: you are **creative** and artistic.
+
+\-Pointed letters: you are more **aggressive**, intense, very intelligent and curious.
+
+\-Connected letters: you are **logical**, systematic and make decisions carefully.
 
 ![](../uploads/markus-spiske-rwkhlvk-bsm-unsplash.jpg)
 
