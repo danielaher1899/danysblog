@@ -5,7 +5,7 @@ date: 2020-10-11T18:30:28.078Z
 header_feature_image: ../uploads/analia-baggiano-egbb-zlbedo-unsplash.jpg
 comments: true
 ---
-On the first post I wrote about graphology, the pseudo-scientific practice that has been around for over 200 years, and how it can help to determinate psychiatric diseases and the personality of the writer. In this article I will compare it to the psychology of font and how both can be useful when looking for clues to our identities.
+Did you know that a typeface can significantly influence what the reader thinks about you? Previously I mentioned graphology, which is the pseudo-scientific practice that has been around for over 200 years and how it can help to determinate psychiatric diseases and the personality of the writer. In this article I will compare it to the psychology of font and I will teach you how to find clues to our identities.
 
 The National Pen Company in the US, reported that your hand writing can give clues about 5,000 personality traits. Some of the main clues are focused on: 
 
