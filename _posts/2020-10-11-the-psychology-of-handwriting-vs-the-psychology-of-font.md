@@ -2,7 +2,7 @@
 layout: post
 title: The Psychology of Handwriting Vs. The Psychology of Font
 date: 2020-10-11T18:30:28.078Z
-header_feature_image: ../uploads/analia-baggiano-egbb-zlbedo-unsplash.jpg
+header_feature_image: ../uploads/anas-alshanti-fexpdv001o4-unsplash.jpg
 comments: true
 ---
 Did you know that a typeface can significantly influence what the reader thinks about you? Previously I mentioned graphology, which is the pseudo-scientific practice that has been around for over 200 years and how it can help to determinate psychiatric diseases and the personality of the writer. In this article I will compare it to the psychology of font and I will teach you how to find clues to our identities.
@@ -12,8 +12,9 @@ The National Pen Company in the US, reported that your hand writing can give clu
 * Size:
 
   * Small letters: you are **shy** or withdrawn, **studious, concentrated or meticulous**.
-  * Medium letters: You are **well-adjusted** and **adaptable**.
-  * Large letters: you are **outgoing**, people oriented, outspoken and love attention, This also may mean that you **pretend a lot of confidence**.
+
+
+
 * Spacing between words:
 
 ![](../uploads/united-nations-covid-19-response-tocmy_axt3w-unsplash.jpg)
