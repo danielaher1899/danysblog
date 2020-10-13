@@ -9,10 +9,10 @@ Did you know that a typeface can significantly influence what the reader thinks 
 
 The National Pen Company in the US, reported that your hand writing can give clues about 5,000 personality traits. Some of the main clues are focused on: 
 
- Size:
+*  Size:
 
-\-Small letters: you are **shy** or withdrawn, **studious, concentrated or meticulous**.
-\-Medium letters: You are **well-adjusted** and **adaptable**.
+Small letters: you are **shy** or withdrawn, **studious, concentrated or meticulous**.
+-Medium letters: You are **well-adjusted** and **adaptable**.
 -Large letters: you are **outgoing**, people oriented, outspoken and love attention, This also may mean that you **pretend a lot of confidence**.
 
 Spacing between words:
@@ -22,25 +22,19 @@ Spacing between words:
 \-Wide spacing: you **enjoy your freedom** and don’t like to be overwhelmed or crowded.
 -Narrow spacing: You **can’t stand to be alone.**
 
-Pressure:
+* Pressure:
 
-\-Heavy pressure: you are **good with commitment** and taking things seriously. If the pressure is too heavy, you tend to be uptight and can react quickly to criticism. 
+  * Heavy pressure: you are **good with commitment** and taking things seriously. If the pressure is too heavy, you tend to be uptight and can react quickly to criticism. 
+  * Light pressure: you are **sensitive** and show an empathy to people, but you also have lack of vitality.
+* Speed:
 
-\-Light pressure: you are **sensitive** and show an empathy to people, but you also have lack of vitality.
+  * If you write quickly: you are **impatient**, dislike delays or time wasters.
+  * If you write slowly: you are more **organised**, methodical and self-reliant.
+* Shape of the letter:
 
-Speed:
-
-\-If you write quickly: you are **impatient**, dislike delays or time wasters.
-
-\-If you write slowly: you are more **organised**, methodical and self-reliant.
-
-Shape of the letter:
-
-\-Rounded letters: you are **creative** and artistic.
-
-\-Pointed letters: you are more **aggressive**, intense, very intelligent and curious.
-
-\-Connected letters: you are **logical**, systematic and make decisions carefully.
+  * Rounded letters: you are **creative** and artistic.
+  * Pointed letters: you are more **aggressive**, intense, very intelligent and curious.
+  * Connected letters: you are **logical**, systematic and make decisions carefully.
 
 ![](../uploads/markus-spiske-rwkhlvk-bsm-unsplash.jpg)
 
