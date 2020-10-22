@@ -2,7 +2,7 @@
 layout: post
 title: Why is This Typeface So Popular?
 date: 2020-10-22T18:09:40.485Z
-header_feature_image: ../uploads/2753188041_bbbe39732a_o.jpg
+header_feature_image: ../uploads/imagen-12.jpg
 comments: true
 ---
 Despite the changes in the technology and pop culture, this typeface has been around for centuries. If you haven't noticed yet, you will see that you can find it everywhere, including candy wrappers, corner store signs, movie posters, album covers and many others. In this post I will explain more about the reason and the history of this famous font.
