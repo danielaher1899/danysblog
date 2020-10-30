@@ -9,3 +9,7 @@ favicon: ../uploads/negro-azul-rosa-neón-club-logotipo-1-.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
+items:
+  - name: Get to Know Me
+    siteurl: https://typographyspace.netlify.app/aboutme/
+    tab: true
