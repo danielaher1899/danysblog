@@ -2,7 +2,7 @@
 layout: post
 title: What is Kinetic Typography Animation?
 date: 2020-11-16T18:44:35.637Z
-header_feature_image: ../uploads/1_wa4acohcqy7uuzn3ehwxaq.gif
+header_feature_image: ../uploads/kinetic-typography-7.gif
 comments: true
 ---
 Having too much text on the screen can be overwhelming for viewers, but when done properly text-based videos can be entertaining and effective. In this post I will explain how kinetic typography works, its benefits and some tips to start creating!
