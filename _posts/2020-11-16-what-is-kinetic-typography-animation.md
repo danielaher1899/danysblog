@@ -11,7 +11,7 @@ Kinetic typography or also known as "fast typography" is an animation technique,
 
 Here is an example:
 
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=lrBiN18ZgkA?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/lrBiN18ZgkA?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 In an era where we’re constantly overwhelmed by the amount of information being thrown at us, the popularity of templates that help deliver messages in fast, visually engaging ways has risen.
 
