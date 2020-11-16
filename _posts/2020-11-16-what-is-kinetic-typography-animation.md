@@ -5,11 +5,13 @@ date: 2020-11-16T18:44:35.637Z
 header_feature_image: ../uploads/1_wa4acohcqy7uuzn3ehwxaq.gif
 comments: true
 ---
-Having too much text on the screen can be overwhelming for viewers, but when done properly text-based videos can be entertaining and effective. In this post I will explain how kinetic typhography works and its benefits and some tips!
+Having too much text on the screen can be overwhelming for viewers, but when done properly text-based videos can be entertaining and effective. In this post I will explain how kinetic typography works, its benefits and some tips to start creating!
 
 Kinetic typography or also known as "fast typography" is an animation technique, which mixes motion and typography to convey ideas and evoke emotion. 
 
-Fast typography seems to be everywhere right now, you might utilise kinetic text to emphasise a portion of a long audio recording, to advertise your product on social media, or to help your viewer remember terms more easily. Commercials, music videos, mobile apps, and websites use it to make their words more impactful and add an element of artistry.
+In an era where we’re constantly overwhelmed by the amount of information being thrown at us, the popularity of templates that help deliver messages in fast, visually engaging ways has risen.
+
+Typography seems to be everywhere right now, you might utilise kinetic text to emphasise a portion of a long audio recording, to advertise your product on social media, or to help your viewer remember terms more easily. Commercials, music videos, mobile apps, and websites use it to make their words more impactful and add an element of artistry.
 
 This popularity could come from a number of reasons:
 
