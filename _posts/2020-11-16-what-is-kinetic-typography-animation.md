@@ -15,12 +15,17 @@ Typography seems to be everywhere right now, you might utilise kinetic text to e
 
 This popularity could come from a number of reasons:
 
-* Attraction and Retention. 
-* Great for highlighting important points.
-* It is fun to watch.
-* You don't need to listen to it. A recent study found that around 85% of the FB users viewed the video in a mute mode. By using moving texts in the video, you can pass the message without any sound and still get to the audience.
+* **Attraction and Retention.** 
+* **Great for highlighting important points.**
+* **It is fun to watch.**
+* **You don't need to listen to it.** A recent study found that around 85% of the FB users viewed the video in a mute mode. By using moving texts in the video, you can pass the message without any sound and still get to the audience.
+* **A text-based video does not cost a lot of money to create and publish.**
 
 Here some tips to create your own kinetic video:
 
 * **Short, Effective, and Informative:** A typography video has built a reputation of being short and to the point.Internet users want to watch and engage with shorter videos and do not usually want to spend a lot of time with a single creator. 
 * **Write out your full script** and highlight or bold the words and phrases that are most important. These will be the elements that get extra design emphasis when you create your video.
+* **Experiment with fonts and animation options.**
+* **Try not to overload the viewer with too many words on the screen at once, one sentence at a time is a good starting point.**
+
+Using kinetic typography can be a fun tool. Moveable type can add impact, emotional connection and visual interest to digital and video projects. Vyond Studio is a good resource to start creating, there are many templates you can use and tutorials for begginers.
