@@ -9,6 +9,10 @@ Having too much text on the screen can be overwhelming for viewers, but when don
 
 Kinetic typography or also known as "fast typography" is an animation technique, which mixes motion and typography to convey ideas and evoke emotion. 
 
+Here is an example:
+
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=lrBiN18ZgkA?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 In an era where we’re constantly overwhelmed by the amount of information being thrown at us, the popularity of templates that help deliver messages in fast, visually engaging ways has risen.
 
 Typography seems to be everywhere right now, you might utilise kinetic text to emphasise a portion of a long audio recording, to advertise your product on social media, or to help your viewer remember terms more easily. Commercials, music videos, mobile apps, and websites use it to make their words more impactful and add an element of artistry.
