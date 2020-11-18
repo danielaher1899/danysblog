@@ -27,6 +27,6 @@ While some designers are embracing technology to innovate fonts, others are mini
 
 ![](../uploads/ed748972122985.5bdc778d2e954.jpg)
 
-**Kinetic fonts**: as I mentioned in my previous post, combines old-fashioned typography with the power of video and animation in order to create really eye-catching, memorable designs. Unlike standard type, a designer working with kinetic type has to also take into account style, effects and timing in addition to normal considerations like alignment, weight, and hierarchy. If you want to learn more about kinetic typography, don't forget to read my [previous article](https://typographyspace.netlify.app/2020/11/16/what-is-kinetic-typography-animation/) for more information![](https://typographyspace.netlify.app/2020/11/16/what-is-kinetic-typography-animation/)
+**Kinetic fonts**: as I mentioned in my previous post, combines old-fashioned typography with the power of video and animation in order to create really eye-catching, memorable designs. Unlike standard type, a designer working with kinetic type has to also take into account style, effects and timing in addition to normal considerations like alignment, weight, and hierarchy. If you want to learn more about kinetic typography, don't forget to read my [previous article](https://typographyspace.netlify.app/2020/11/16/what-is-kinetic-typography-animation/) for more information.
 
 ![](../uploads/1_wa4acohcqy7uuzn3ehwxaq.gif)
