@@ -26,3 +26,7 @@ Minimalists fonts: many type designers are experimenting with negative space and
 Hand-written fonts: hand-written fonts are resurging as a reprieve to our over-digitalized world. There is a rise in unique and rustic hand-lettered typography as more designers dabble in this increasingly creative and ilustrative style. Reebok has used hand-written fonts in a campaign called " be more human", it uses the fonts to make the message of each celebrity part of the campaign stand out.
 
 ![](../uploads/ed748972122985.5bdc778d2e954.jpg)
+
+Kinetic fonts: as I mentioned in my previous post, combines old-fashioned typography with the power of video and animation in order to create really eye-catching, memorable designs. Unlike standard type, a designer working with kinetic type has to also take into account style, effects and timing in addition to normal considerations like alignment, weight, and hierarchy. If you want to learn more about kinetic typography, don't forget to read my [previous article](https://typographyspace.netlify.app/2020/11/16/what-is-kinetic-typography-animation/) for more information![](https://typographyspace.netlify.app/2020/11/16/what-is-kinetic-typography-animation/)
+
+![](../uploads/1_wa4acohcqy7uuzn3ehwxaq.gif)
