@@ -15,6 +15,10 @@ While some designers are embracing technology to innovate fonts, others are mini
 
 ![](../uploads/9679da97352747.5ed3d4fea4967.jpg)
 
-3. Experimental fonts: this trend is all about pushing design boundaries to their limits, and many designers have been tapping into the most creative experimental typography techniques to evoke an edgy and rebellious tone.
+3. Experimental fonts: this trend is all about pushing design boundaries to their limits, and many designers have been tapping into the most creative experimental typography techniques to evoke an edgy and rebellious tone. No rules by Gleb_Guralnyk its an unconventional font, each letter automatically switches to a different variation, mixing striped fonts and characters with various patterns.
 
 ![](../uploads/d486510f-b362-4ebb-bec3-ddaf38529ceb.jfif)
+
+4. Minimalists fonts: many type designers are experimenting with negative space and removing the eyes and crossbars of letterforms to create more expansive shapes. Modern, simple sans serif fonts are a safe choice everywhere and it will remain like that. Designova has created this minimal font "Brooklyn", its classic geometric design is perfect for elegant portfolios and branding designs.
+
+![](../uploads/7391beae-f2ef-4ff9-90ba-b1f1680459ef.png)
